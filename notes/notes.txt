@@ -22,6 +22,12 @@ what is supervised learning?
     supervised learning is like we gave the algorithm for each data set hw right answers were given
     in most od the cases in we have told what is the correct answer 
 
+
+    Supervised learning is the machine learning task of learning a 
+    function that maps an input to an output based on example input-output pairs. It infers a function from 
+    labeled training data consisting of a set of training examples.
+
+
 Supervised Learning
 In supervised learning, we are given a data set and already know what our correct output should look like, having the idea that there is a relationship between the input and the output.
 
@@ -40,3 +46,13 @@ Example 2:
 (b) Classification - Given a patient with a tumor, we have to predict whether the tumor is malignant or benign.
 
 Unsupervised Learning
+Unsupervised Learning
+Unsupervised learning allows us to approach problems with little or no idea what our results should look like. We can derive structure from data where we don't necessarily know the effect of the variables.
+
+We can derive this structure by clustering the data based on relationships among the variables in the data.
+
+With unsupervised learning there is no feedback based on the prediction results.
+
+Example:
+
+Clustering: Take a collection of 1,000,000 different genes, and find a way to automatically group these genes into groups that are somehow similar or related by different variables, such as lifespan, location, roles, and so on.
