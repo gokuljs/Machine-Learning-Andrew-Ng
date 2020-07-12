@@ -1,0 +1,10 @@
+m=number of training examples 
+x's="input" variable /features
+y's="output" variable/"target" variable
+(x,y)=one traing example
+(x^(i),y^(i))= is the  i th traing example
+size in feet | price($) in 1000's
+2104         | 460
+1416         | 232
+1534         | 315
+when x^(1)=2104 ,x^(2)=1416 ands y^(1)=460
