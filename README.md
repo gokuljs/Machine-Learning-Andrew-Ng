@@ -2,8 +2,12 @@
 https://www.learnpython.org/ \
 http://deeplearning.net/  \
 
-#datetime package
+# datetime package
 https://www.programiz.com/python-programming/datetime  \
 
 https://planetpython.org/
+
+# dataskeptic 
+podcast about data science ,machine learning  etc 
+https://dataskeptic.com/
 
