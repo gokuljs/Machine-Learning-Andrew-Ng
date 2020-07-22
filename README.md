@@ -11,3 +11,6 @@ https://planetpython.org/
 podcast about data science ,machine learning  etc 
 https://dataskeptic.com/
 
+# pandas documentation
+https://pandas.pydata.org/docs/
+
